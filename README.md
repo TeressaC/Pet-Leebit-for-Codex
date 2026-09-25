@@ -62,11 +62,6 @@ cd codex-leebit-pet
 
 本仓库的安装脚本、文件结构和 Codex 配置格式可以作为制作原创宠物的参考；这不代表授予任何 Leebit 角色或美术素材的权利。
 
-官方资料：
-
-- [JYP Entertainment：Stray Kids 的角色 IP「SKZOO」](https://www.jype.com/es/board/ir-data/zk1hoc7i)
-- [JYP JAPAN ONLINE STORE：SKZOO PLUSH ORIGINAL Ver. - Leebit](https://jypj-store.com/en/products/jy24-pu0-0002)
-
 **Pet package creator: Teressa Copple**
 
 > “Creator” refers to the person who created and assembled this Codex animated pet package. Leebit, SKZOO, Stray Kids, and all related character and brand rights remain the property of their respective rights holders.
