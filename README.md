@@ -17,8 +17,8 @@
 ### 方法一：使用安装脚本（macOS / Linux）
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/codex-leebit-pet.git
-cd codex-leebit-pet
+git clone https://github.com/TeressaC/Pet-Leebit-for-Codex.git
+cd Pet-Leebit-for-Codex
 ./install.sh
 ```
 
